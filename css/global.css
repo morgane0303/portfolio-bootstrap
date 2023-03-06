@@ -1,0 +1,32 @@
+.navbar-light .navbar-nav .nav-link {
+    color: rgba(255, 0, 230, 0.55);
+}
+
+.progress-bar {
+    background-color: #2f00ff!important;
+    background: linear-gradient(to right, rgb(77 196 250/66%), rgb(135, 158, 241), rgb(234, 0, 255))!important;
+
+ }
+ 
+.text-primary {
+   color:#d038d5!important;
+ }
+
+ .bg-primary {
+    background-color: #2f00ff!important;
+    background: linear-gradient(to right, rgb(77 196 250), rgb(135, 158, 241), rgba(234, 0, 255, 0.878))!important;
+ 
+}
+
+.btn-primary {
+    color: #ffffff;
+    background-color: #f712ffb3;
+    border-color: #f712ffb3;
+}
+
+:hover.btn-primary {
+    color: #fff;
+    background-color: #f71eff;
+    border-color: #f71eff;
+}
+
